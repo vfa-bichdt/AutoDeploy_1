@@ -17,5 +17,5 @@ jobs:
           paths:
             - vendor
 
-      s run test
+       run test
       # - run: phpcs app
