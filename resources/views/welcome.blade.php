@@ -22,12 +22,12 @@
             </div>
             <div class="collapse navbar-collapse justify-content-end" id="navigation">
               <ul class="navbar-nav">
-                <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">About</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">About123</a></li>
                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li>
                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
-                <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact
-              
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
+            </ul>
             </div>
           </div>
         </nav>
